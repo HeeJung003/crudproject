@@ -10,7 +10,7 @@ import com.shinhan.day16.DBUtil;
 public class CRUDTest2 {
 	
 	public static void main(String[] args) throws SQLException {
-		//git 연동확인
+		//git 연동확인확인
 		//모두 성공하면 commit, 하나라도 실패하면 rollback
 		//insert
 		//update
